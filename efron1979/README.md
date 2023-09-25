@@ -1,1 +1,1 @@
-#  cox 1972 paper
+#  Efron  1979 paper
