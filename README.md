@@ -2,7 +2,7 @@
 
 Repository for Stats319 
 
-This repository is for Stats 319 Winter 2023/2024
+This repository is for Stats 319 Winter 2023/2024 
 
 There is a folder for each paper, containing a README.md, a pdf and other helper files.
 #
