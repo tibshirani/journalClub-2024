@@ -1,6 +1,5 @@
 # journalClub-2024
 
-Repository for Stats319 
 
 This repository is for Stats 319 Winter 2023/2024 
 
