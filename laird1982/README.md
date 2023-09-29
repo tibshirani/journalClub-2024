@@ -1,1 +1,1 @@
-#  Efron  1979 paper
+#  Laird 1982 paper
