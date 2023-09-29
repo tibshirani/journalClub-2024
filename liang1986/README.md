@@ -1,1 +1,1 @@
-#  Efron  1979 paper
+#  Liang 1986 paper
