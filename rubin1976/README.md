@@ -1,1 +1,1 @@
-#  Efron  1979 paper
+#  Rubin 1976 paper
