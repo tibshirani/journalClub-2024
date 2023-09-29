@@ -1,1 +1,1 @@
-#  Efron  1979 paper
+#  Nelder  1972 paper
