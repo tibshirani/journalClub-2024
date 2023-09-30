@@ -11,3 +11,7 @@ The README.md file should contain a high level explanation of the paper, suitabl
 There is a folder for each paper, containing a README.md, a pdf and other helper files.
 #
 Other students can/should upload  any comments they have about the presentation or the README.md
+#
+For the presentation, it would be good to discuss software that implements the given methodology
+#
+Also: what mportant work preceded the given work, and what were notable developments since then?
