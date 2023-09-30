@@ -13,6 +13,7 @@ There is a folder for each paper, containing a README.md, a pdf and other helper
 #
 Other students can/should upload  any comments they have about the presentation or the README.md
 #
-For the presentation, it would be good to discuss software that implements the given methodology
+For the presentation, it would be good to discuss software that implements the given methodology (if appropriate)
+and give some background on the authors.
 #
 Also: what mportant work preceded the given work, and what were notable developments since then?
