@@ -2,7 +2,10 @@ The paper "Sampling-Based Approaches to Calculating Marginal Densities" by Gelfa
 the Journal of the American Statistical Association in 1990, is a fundamental contribution to the field of 
 Bayesian statistics and computational methods. Here's a summary of its key points and contributions:
 
-Objective: The paper focuses on addressing the problem of calculating marginal densities in Bayesian statistical analysis.
+Objective: 
+
+The paper focuses on addressing the problem of calculating marginal densities in Bayesian statistical analysis.
+
 
 Key Contributions:
 
