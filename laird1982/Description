@@ -14,7 +14,9 @@ Laird's paper introduces the concept of random-effects models for longitudinal d
 These models account for the correlation between repeated measurements within the same subject and allow for the incorporation 
 of both fixed and random effects.
 
-Hierarchical Structure: The paper discusses the hierarchical structure of the random-effects model, where individual subject-specific effects 
+Hierarchical Structure: 
+
+The paper discusses the hierarchical structure of the random-effects model, where individual subject-specific effects 
 are considered as random variables following a certain distribution. This structure captures the underlying variability among subjects.
 
 Likelihood-Based Estimation:
