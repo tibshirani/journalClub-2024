@@ -12,6 +12,7 @@ The Jackknife Method:
 Efron begins by discussing the jackknife method, a precursor to the bootstrap. The jackknife involves systematically
 leaving out one observation
 at a time to estimate the sampling distribution of a statistic.
+
 Limitations of the Jackknife:
 
 The paper highlights limitations of the jackknife method, including its sensitivity to outliers and its inability to capture the
@@ -27,6 +28,7 @@ The paper outlines the steps for implementing the bootstrap:
 a. Draw random samples (with replacement) from the observed data to create multiple bootstrap samples.
 b. Compute the statistic of interest for each bootstrap sample.
 c. Use the distribution of bootstrap statistics to estimate the sampling distribution and calculate confidence intervals.
+
 Advantages of the Bootstrap:
 
 Efron discusses the advantages of the bootstrap, including its ability to handle complex statistics and provide m
