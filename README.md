@@ -22,5 +22,5 @@ Also: what mportant work preceded the given work, and what were notable developm
 | Paper   | Student(s) |
 | -------- | -------   |
 | Cox1972  |Smith    |
-|           |     |
-|           |      |
+|           |        |
+|           |        |
