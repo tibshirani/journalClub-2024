@@ -17,3 +17,10 @@ For the presentation, it would be good to discuss software that implements the g
 and give some background on the authors.
 #
 Also: what mportant work preceded the given work, and what were notable developments since then?
+#
+
+| Month    | Savings |
+| -------- | ------- |
+| January  | $250    |
+| February | $80     |
+| March    | $420    |
