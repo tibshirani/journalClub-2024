@@ -12,8 +12,7 @@ The README.md file should contain a high level explanation of the paper, suitabl
 #
 Other students can/should upload  any comments they have about the presentation or the README.md
 #
-For the presentation, it would be good to discuss software that implements the given methodology (if appropriate)
-and give some background on the authors.
+For the presentation, it would be good to  give some background on the authors, and discuss software that implements the given methodology (if appropriate)
 #
 Also: what important work preceded the given work, and what were notable developments since then?
 #
