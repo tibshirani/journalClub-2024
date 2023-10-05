@@ -1,7 +1,7 @@
 # journalClub-2024
 
 
-This repository is for Stats 319 Winter 2023/2024 
+This repository is for Stats 319 Winter 2023/2024 . Mondays 1:30-2:50
 
 There is a folder for each paper, containing a README.md, a pdf of the paper and a summary of the paper (thanks to chatgp3) in
 the Description file
@@ -16,11 +16,25 @@ Other students can/should upload  any comments they have about the presentation 
 For the presentation, it would be good to discuss software that implements the given methodology (if appropriate)
 and give some background on the authors.
 #
-Also: what mportant work preceded the given work, and what were notable developments since then?
+Also: what important work preceded the given work, and what were notable developments since then?
 #
 
-| Paper   | Student(s) |
+| Date | Paper   | Student(s) |
 | -------- | -------   |
-| Cox1972  |Smith    |
+|   Jan. 8   |        |            |
+|   Jan. 15   |  MLK day      |            |
+|   Jan. 22   |        |            |
+|   Jan. 29   |        |            |
+|   Feb. 5   |        |            |
+|   Feb. 12   |        |            |
+|   Feb. 19   |   Presidents day     |            |
+|   Feb.  26   |        |            |
+|   Mar. 4   |        |            |
+ |   Mar. 11   |        |            |
+
+
+
+
+|       
 |           |        |
 |           |        |
