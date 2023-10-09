@@ -33,21 +33,33 @@ GAMs are particularly useful for modeling complex relationships in data by allow
 This paper laid the foundation for the widespread use of GAMs in statistics and data analysis.
 
 
-Buja, Hastie and Tibshirani (1989)
+Buja, Hastie and Tibshirani (1989)  (Not a good summary!!)
 
-Summary:
-The paper by Buja, Hastie, and Tibshirani discusses linear smoothers and additive models, which are statistical techniques used for modeling and analyzing data. The key points of the paper can be summarized as follows:
 
-Linear Smoothers: The paper explores linear smoothers, which are statistical methods used to capture underlying trends or patterns in data. These smoothers aim to estimate the expected value of a response variable based on predictor variables while maintaining linearity in the model.
+The paper by Buja, Hastie, and Tibshirani discusses linear smoothers and additive models, which are statistical
+techniques used for modeling and analyzing data. The key points of the paper can be summarized as follows:
 
-Additive Models: Additive models are a specific type of statistical model discussed in the paper. These models represent the relationship between a response variable and multiple predictor variables as a sum of smooth functions of individual predictors. Additive models are a flexible framework for modeling complex relationships in data.
+Linear Smoothers: The paper explores linear smoothers, which are statistical methods used to capture underlying 
+trends or patterns in data. These smoothers aim to estimate the expected value of a response variable based on
+predictor variables while maintaining linearity in the model.
 
-Nonparametric Estimation: The paper emphasizes the use of nonparametric techniques in the context of linear smoothers and additive models. Nonparametric methods do not assume a specific functional form for the relationship between variables, making them suitable for modeling diverse data patterns.
+Additive Models: Additive models are a specific type of statistical model discussed in the paper. These models 
+represent the relationship between a response variable and multiple predictor variables as a sum of smooth functions
+of individual predictors. Additive models are a flexible framework for modeling complex relationships in data.
 
-Estimation and Inference: The paper may cover topics related to estimation procedures and statistical inference for linear smoothers and additive models. This includes discussions on methods for estimating model parameters and making predictions.
+Nonparametric Estimation: The paper emphasizes the use of nonparametric techniques in the context of linear smoothers 
+and additive models. Nonparametric methods do not assume a specific functional form for the relationship between variables,
+making them suitable for modeling diverse data patterns.
 
-Applications: Linear smoothers and additive models have a wide range of applications in statistics, data analysis, and machine learning. They can be used for tasks such as regression, classification, and data visualization.
+Estimation and Inference: The paper may cover topics related to estimation procedures and statistical inference for
+linear smoothers and additive models. This includes discussions on methods for estimating model parameters and making predictions.
 
-Statistical Theory: The paper likely delves into the theoretical foundations of linear smoothers and additive models, providing insights into the properties and assumptions underlying these techniques.
+Applications: Linear smoothers and additive models have a wide range of applications in statistics, data analysis, 
+and machine learning. They can be used for tasks such as regression, classification, and data visualization.
 
-Since I don't have access to the specific content of the paper, this summary is based on general knowledge of the topic and the typical contents of research papers in statistics. If you have specific questions or need more detailed information, please feel free to ask.
+Statistical Theory: The paper likely delves into the theoretical foundations of linear smoothers and additive models,
+providing insights into the properties and assumptions underlying these techniques.
+
+Since I don't have access to the specific content of the paper, this summary is based on general knowledge of the topic 
+and the typical contents of research papers in statistics. If you have specific questions or need more detailed information, 
+please feel free to ask.
