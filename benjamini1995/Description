@@ -1,8 +1,7 @@
 The paper titled "Controlling the False Discovery Rate: A Practical and Powerful Approach to Multiple Testing" 
 by Benjamini and Hochberg, published in the
 Journal of the Royal Statistical Society: Series B (Methodological) in 1995, introduces a groundbreaking 
-statistical method for addressing the problem of 
-multiple hypothesis testing.
+statistical method for addressing the problem of multiple hypothesis testing.
  
 The main idea of the paper is to control the False Discovery Rate (FDR) rather than the Familywise Error Rate (FWER),
 which had been the traditional approach. 
@@ -12,11 +11,9 @@ of false discoveries among all the discoveries.
 Here's a brief summary of the key points:
 
 Problem Statement: In scientific research and data analysis, researchers often test multiple hypotheses simultaneously,
-which increases 
-the risk of making false discoveries. The authors propose an alternative approach to controlling this type of error.
+which increases the risk of making false discoveries. The authors propose an alternative approach to controlling this type of error.
 Introduction of FDR: The paper introduces the concept of the False Discovery Rate (FDR), which is defined as the 
-expected proportion of 
-false discoveries among all the discoveries. This is a more flexible and practical criterion for controlling errors 
+expected proportion of false discoveries among all the discoveries. This is a more flexible and practical criterion for controlling errors 
 in multiple testing scenarios.
 
 BH Procedure: The authors propose the Benjamini-Hochberg (BH) procedure, which is a stepwise method for controlling FDR. 
