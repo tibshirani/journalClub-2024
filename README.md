@@ -17,17 +17,17 @@ For the presentation, it would be good to  give some background on the authors, 
 Also: what important work preceded the given work, and what were notable developments since then?
 #
 
-| Date | Paper   | Student(s) |
+| Date | Paper   | Student(s) |   Commenters  | 
 |----| ---- |-------- | 
-|   Jan. 8   |  Intro      |            |
-|   Jan. 15   |  MLK day      |            |
-|   Jan. 22   |        |            |
-|   Jan. 29   |        |            |
-|   Feb. 5   |        |            |
-|   Feb. 12   |        |            |
-|   Feb. 19   |   Presidents day     |            |
-|   Feb.  26   |        |            |
-|   Mar. 4   |        |             |
- |   Mar. 11   |        |          |
+|   Jan. 8   |  Intro      |            |     |
+|   Jan. 15   |  MLK day      |            | |
+|   Jan. 22   |        |            | |
+|   Jan. 29   |        |            | |
+|   Feb. 5   |        |            | |
+|   Feb. 12   |        |            | |
+|   Feb. 19   |   Presidents day     |   |          |
+|   Feb.  26   |        |            | |
+|   Mar. 4   |        |             | |
+ |   Mar. 11   |        |          | |
 
 
