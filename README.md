@@ -18,7 +18,7 @@ Also: what important work preceded the given work, and what were notable develop
 #
 
 | Date | Paper   | Student(s) |   Commenters  |   
-|----| ---- |-------- |                  |
+|----| ---- |-------- |   ---------   |
 |   Jan. 8   |  Intro      |            |     |
 |   Jan. 15   |  MLK day      |            | |
 
