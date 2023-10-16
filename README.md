@@ -17,7 +17,7 @@ For the presentation, it would be good to  give some background on the authors, 
 Also: what important work preceded the given work, and what were notable developments since then?
 #
 
-| Date | Paper   | Student(s) |   Commenters  |   
+| Date | Paper   | Student(s) presenting |   Commenters  |   
 |----| ---- |-------- |   ---------   |
 |   Jan. 8   |  Intro      |            |     |
 |   Jan. 15   |  MLK day      |            | |
