@@ -25,9 +25,9 @@ Also: what important work preceded the given work, and what were notable develop
 |   Jan. 22   |        |            | |
 |   Jan. 29   |        |            | |
 |   Feb. 5   |        |            | |
-|   Feb. 12   |        |            | |
+|   Feb. 12   |        |            | Ziang Song |
 |   Feb. 19   |   Presidents day     |   |          |
-|   Feb.  26   |        |            | |
+|   Feb.  26   |  efron1979    |  Ziang Song    | |
 |   Mar. 4   |        |             | |
  |   Mar. 11   |        |          | |
 
