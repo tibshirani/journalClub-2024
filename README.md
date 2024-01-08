@@ -22,7 +22,7 @@ Also: what important work preceded the given work, and what were notable develop
 |----| ---- |-------- |   ---------   |
 |   Jan. 8   |  Intro      |            |     |
 |   Jan. 15   |  MLK day      |            | |
-|   Jan. 22   |        |            | |
+|   Jan. 22   |Laird82|     Ran Xie       | |
 |   Jan. 29   |        |            | |
 |   Feb. 5   |        |            | |
 |   Feb. 12   |        |            | Ziang Song |
