@@ -27,7 +27,7 @@ Also: what important work preceded the given work, and what were notable develop
 |   Feb. 5   |        |            | |
 |   Feb. 12   |  Gelfond90      |     Sophia & Amber       | Ziang Song |
 |   Feb. 19   |   Presidents day     |   |          |
-|   Feb.  26   |  efron1979    |  Ziang Song    | |
+|   Feb.  26   |  efron1979    |  Ziang Song & Wenlong Ji    | |
 |   Mar. 4   |        |             | |
  |   Mar. 11   |        |          | |
 
