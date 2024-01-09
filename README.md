@@ -25,7 +25,7 @@ Also: what important work preceded the given work, and what were notable develop
 |   Jan. 22   |Laird82|     Ran Xie       | |
 |   Jan. 29   |        |            | |
 |   Feb. 5   |        |            | |
-|   Feb. 12   |  Gelfond90      |     Sophia & Amber       | Ziang Song |
+|   Feb. 12   |  Gelfond90      |     Sophia & Amber       | |
 |   Feb. 19   |   Presidents day     |   |          |
 |   Feb.  26   |  efron1979    |  Ziang Song    | |
 |   Mar. 4   |        |             | |
