@@ -22,9 +22,9 @@ Also: what important work preceded the given work, and what were notable develop
 |----| ---- |-------- |   ---------   |
 |   Jan. 8   |  Intro      |            |     |
 |   Jan. 15   |  MLK day      |            | |
-|   Jan. 22   |Laird82|     Ran Xie       | |
+|   Jan. 22   |Laird82|     Ran Xie       | Leda Liang |
 |   Jan. 29   | Benjamini95       |   Michael Salerno         | |
-|   Feb. 5   |        |            | |
+|   Feb. 5   | Breiman2001       | Leda Liang           | |
 |   Feb. 12   |  Gelfond90      |     Sophia & Amber       | Ziang Song |
 |   Feb. 19   |   Presidents day     |   |          |
 |   Feb.  26   |  efron1979    |  Ziang Song    | |
