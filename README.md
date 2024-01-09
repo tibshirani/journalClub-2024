@@ -23,7 +23,7 @@ Also: what important work preceded the given work, and what were notable develop
 |   Jan. 8   |  Intro      |            |     |
 |   Jan. 15   |  MLK day      |            | |
 |   Jan. 22   |Laird82|     Ran Xie       | |
-|   Jan. 29   |        |            | |
+|   Jan. 29   | Benjamini95       |   Michael Salerno         | |
 |   Feb. 5   |        |            | |
 |   Feb. 12   |  Gelfond90      |     Sophia & Amber       | Ziang Song |
 |   Feb. 19   |   Presidents day     |   |          |
