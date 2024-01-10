@@ -27,8 +27,8 @@ Also: what important work preceded the given work, and what were notable develop
 |   Feb. 5   | Breiman2001       | Leda Liang  &Yash Nair         | Sang Truong |
 |   Feb. 12   |  Gelfond90      |     Sophia & Amber       | Ziang Song |
 |   Feb. 19   |   Presidents day     |   |          |
-|   Feb.  26   |  efron1979    |  Ziang Song & Sang Truong | Yash Nair|
+|   Feb.  26   |  efron1979    |  Ziang Song & Sang Truong | Yash Nair & Ivy Zhang|
 |   Mar. 4   |   Dempster     |     Dieka G.        | Sang Truong |
- |   Mar. 11   |        |          | |
+ |   Mar. 11   |    Cox    |    Ivy Zhang      | |
 
 
