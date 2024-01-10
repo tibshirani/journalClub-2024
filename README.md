@@ -25,10 +25,10 @@ Also: what important work preceded the given work, and what were notable develop
 |   Jan. 22   |Laird82|     Ran Xie       | Leda Liang, Dieka G. |
 |   Jan. 29   | Benjamini95       |   Michael Salerno         | Amber Hu|
 |   Feb. 5   | Breiman2001       | Leda Liang  &Yash Nair         | Sang Truong, Michael Salerno |
-|   Feb. 12   |  Gelfond90      |     Sophia & Amber       | Ziang Song |
+|   Feb. 12   |  Gelfond90      |     Sophia & Amber       | Ziang Song & Wenlong Ji |
 |   Feb. 19   |   Presidents day     |   |          |
 |   Feb.  26   |  efron1979    |  Ziang Song & Sang Truong | Yash Nair & Ivy Zhang|
-|   Mar. 4   |   Dempster     |     Dieka G.        | Sang Truong |
+|   Mar. 4   |   Dempster     |     Dieka G. & Wenlong Ji       | Sang Truong |
  |   Mar. 11   |    Cox    |    Ivy Zhang      | |
 
 
