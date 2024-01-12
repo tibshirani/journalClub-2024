@@ -29,6 +29,6 @@ Also: what important work preceded the given work, and what were notable develop
 |   Feb. 19   |   Presidents day     |   |          |
 |   Feb.  26   |  efron1979    |  Ziang Song & Sang Truong | Yash Nair & Ivy Zhang|
 |   Mar. 4   |   Dempster     |     Dieka G. & Wenlong Ji        | Sang Truong, Sophia Lu |
- |   Mar. 11   |    Cox    |    Ivy Zhang      | Aditya Ghosh |
+ |   Mar. 11   |    Cox    |    Ivy Zhang      | Aditya Ghosh , Ran Xie|
 
 
