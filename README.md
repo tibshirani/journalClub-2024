@@ -24,7 +24,7 @@ Also: what important work preceded the given work, and what were notable develop
 |   Jan. 15   |  MLK day      |            | |
 |   Jan. 22   |Laird82|     Ran Xie , Rahul Kanekar      | Leda Liang, Dieka G. |
 |   Jan. 29   | Benjamini95       |   Michael Salerno  &  Aditya Ghosh   | Amber Hu, Sophia Lu|
-|   Feb. 5   | Breiman2001       | Leda Liang  &Yash Nair         | Sang Truong, Michael Salerno |
+|   Feb. 5   | Breiman2001       | Leda Liang  &Yash Nair & Zitong Yang        | Sang Truong, Michael Salerno |
 |   Feb. 12   |  Gelfond90      |     Sophia & Amber       | Ziang Song & Wenlong Ji  |
 |   Feb. 19   |   Presidents day     |   |          |
 |   Feb.  26   |  efron1979    |  Ziang Song & Sang Truong | Yash Nair & Ivy Zhang|
