@@ -1,0 +1,6 @@
+Feedback for Michael and Aditya on Benjamini '95:
+
+- It would be helpful to start the talk with a motivating example of hypothesis testing, and continue with that example to introduce the need for multiple testing and FDR control. I think that would especially benefit undergrads who might want a more high-level overview of the topic.
+- On one of the slides, you ask "What does this mean for the state of science?" when moving from single hypothesis testing to multiple hypothesis testing. I totally agree this is the central question of this paper, though it seemed a bit abrupt. Maybe you could lead the audience through a couple intermediate steps before posing that question (i.e. what will happen if we just reject at level alpha for many hypotheses, how many false rejections would we expect in that case, etc.)
+- I liked how you gave examples for when we should use FWER versus FDR control based on the number of hypotheses we are testing.
+- I also enjoyed the discussion near the end about how BH is primarily a statistical contribution, but we should also work towards changing the culture of scientific publishing to incentivize doing reproducible science. 
