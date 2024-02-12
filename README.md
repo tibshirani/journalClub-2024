@@ -27,7 +27,7 @@ Also: what important work preceded the given work, and what were notable develop
 |   Feb. 5   | Breiman2001       | Leda Liang  &Yash Nair & Zitong Yang        | Sang Truong, Michael Salerno |
 |   Feb. 12   |  Gelfond90      |     Sophia & Amber       | Ziang Song & Wenlong Ji  |
 |   Feb. 19   |   Presidents day     |   |          |
-|   Feb.  26   |  efron1979    |  Ziang Song & Sang Truong | Yash Nair & Ivy Zhang|
+|   Feb.  26   |  efron1979    |  Ziang Song & Sang Truong | Yash Nair & Ivy Zhang & Josh Kazdan|
 |   Mar. 4   |   Dempster     |     Dieka G. & Wenlong Ji        | Sang Truong, Sophia Lu |
  |   Mar. 11   |    Cox    |    Ivy Zhang  & Josh Leib Kazdan    | Aditya Ghosh , Ran Xie, Rahul Kanekar |
 
