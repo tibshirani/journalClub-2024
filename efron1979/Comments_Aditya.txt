@@ -1,0 +1,7 @@
+Feedback on Ziang's presentation on Efron (1979):
+
+- I appreciate how Ziang used simple examples to explain the core concepts of Bootstrap. 
+
+- When discussing Bootstrap's popularity, I suggest highlighting its fully automated nature, which spares us the burden of case-by-case calculations typically required in maximum likelihood estimation. 
+
+- Adding visual aids, such as histograms, would enhance the presentation by illustrating the theoretical proof sketches.
