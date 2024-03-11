@@ -1,0 +1,12 @@
+
+
+ 1. It would be nice to know in what sense the jackknife fails to estimate the median and how large the failure is.  Why does the bootstrap fix the median estimation problem?
+
+2. There was an anecdote in the presentation about pulling oneself up by one's bootstraps.  This is obviously impossible; I'd be interested to know more about the history behind this name. 
+  
+3.  Did people initially think that you were somehow getting something for nothing with the bootstrap?
+  
+4. There wasn't much discussion about limitations of the bootstrap (besides that it's computationally taxing).  
+  
+ 5.  Are there limitations or statistics for which the bootstrap will not give good estimates of the variance?
+
