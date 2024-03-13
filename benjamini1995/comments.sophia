@@ -1,0 +1,10 @@
+===========================================================
+The presentation is clear, coherent, and well-motivated overall. I especially enjoyed the comic for demonstrating multiple testing using jelly beans, 
+using the black and red dots to demonstrate the inadequacy of 
+using the conventional notion of type-I error in publication, thus motivating a more stringent notion of “false discovery” control (False Discovery Rate). 
+
+
+
+Here are my suggestions: On the first slide, provide a more intuitive characterization of the problem as opposed to starting with technical definitions. 
+On the structural side, I think you could incorporate the historical notes, in addition to presenting the formulas, to demonstrate how earlier ideas motivated later works. 
+Finally, the proof section could be broken down further.
