@@ -1,0 +1,119 @@
+---
+title: "Hierarchical Gaussian Model"
+author: "STATS 319"
+output: html_document
+---
+
+RStan is an easy-to-use package for specifying a probabilistic model and conducting posterior inference under the model. For more information on Stan and explanation of the model, see [here](https://astrostatistics.psu.edu/su14/lectures/Daniel-Lee-Stan-2.pdf).
+
+We will begin by installing the necessary package:
+
+```{r installation}
+# comment out to install, the notebook won't knit if you leave this chunk in code
+# install.packages("rstan", repos = c("https://mc-stan.org/r-packages/", getOption("repos")))
+```
+
+
+Now, we will specify a probabilistic model. Our model looks like the following:
+
+\begin{align}
+\sigma^2 &\sim \mathrm{InvGamma}(\alpha_1, \beta_1)\\
+\mu &\sim \mathcal{N}(\mu_0, \sigma_0^2)\\
+\tau^2 &\sim \mathrm{InvGamma}(\alpha_2, \beta_2)\\
+\theta &\sim \mathrm{N}(\mu, \tau^2)\\
+X_i &\sim \mathrm{N}(\theta_i, \sigma^2)
+\end{align}
+
+Assuming the number of students is the same for all schools, we can think of $X_1 \in \mathbb{R}^N$ as students from school 1 and $X_2 \in \mathbb{R}^N$ as students from school 2. The mean of school 1 $\theta_1$ and the mean of school 2 $\theta_2$ are assumed to be distributed from a normal distribution with mean $\mu$ and variance $\tau^2$. We put a corresponding prior distribution on $\mu$ and $\tau^2$, respectively. The hierarchical Bayesian approach yields a posterior distribution over $\theta$s whose mean interpolates between unpooled estimate $\hat{\theta}_i = \frac{1}{N_i} \sum_{n=1}^{N_i} x_{i, n}$ and pooled estimate $\hat{\theta}_i = \frac{1}{SN} \sum_{i=1}^S \sum_{n=1}^{N_i} x_{i, n}$ where $S$ is the total number of schools (see [here](https://github.com/slinderman/stats305c/blob/spring2023/slides/lecture03_pgms.pdf) slide 31). 
+
+
+```{r verbose=TRUE, eval = TRUE, tidy = TRUE}
+model = 
+"data {
+  int n;
+  matrix[n,2] x;
+  real alpha1;
+  real beta1;
+  real mu0;
+  real sigma0sq;
+  real alpha2;
+  real beta2;
+}
+
+parameters {
+  real theta[2]; // mean test score for 2 schools
+  real<lower=0> sigmasq[2]; // variance of test score for 2 schools
+  real mu; // prior mean
+  real<lower=0> tausq; // prior var
+}
+
+model {
+  sigmasq ~ inv_gamma(alpha1, beta1);
+  tausq ~ inv_gamma(alpha2, beta2);
+  mu ~ normal(mu0, sigma0sq);
+  theta ~ normal(mu, tausq);
+  for (i in 1:2) {
+    x[, i] ~ normal(theta[i], sigmasq[i]);
+  }
+}
+"
+```
+
+
+Now that we have specified our model, we will specify the hyperparameters (parameters for prior distributions) and generate the observed data.
+
+```{r generate_data, echo = T, results = 'hide'}
+library("rstan")
+# specify number of cores
+options(mc.cores=1)
+
+# specify hyperparameters
+alpha1 = 0.01
+beta1 = 0.01
+alpha2 = 0.01
+beta2 = 0.01
+mu0 = 0
+sigma0sq = 10
+
+# specify number of students per school
+n = 100
+
+# generate observed data for 2 schools
+x1 = rnorm(n, 1.8, sd = 3.2)
+x2 = rnorm(n, 3.6, sd = 5.1)
+x = matrix(cbind(x1, x2), ncol=2)
+```
+
+
+Now we can generate samples from the posterior distribution of $\theta | X_{obs}$ and $\sigma^2|X_{obs}$ with the help of `rstan`.
+
+```{r perform_sampling, echo = T, results = 'hide'}
+stan_model = rstan::stan_model(model_code=model)
+
+fit = rstan::sampling(stan_model,
+               list(x = x,
+                    n = n,
+                    alpha1=alpha1,
+                    alpha2=alpha2,
+                    beta1=beta1,
+                    beta2=beta2,
+                    mu0=mu0,
+                    sigma0sq=sigma0sq
+                    ),
+               iter=10000,
+               chains=4)
+```
+
+We will visualize the posterior distribution. We do not actually know if the chain has converged to the stationary distribution, but we can check heuristically that the chain has "mixed" by looking at the trace plot:
+
+```{r posterior_inference}
+post = extract(fit)
+plot(fit)
+mean(post$theta)
+sqrt(mean(post$sigmasq))
+plot(fit, show_density = TRUE, ci_level = 0.5, fill_color = "purple")
+plot(fit, plotfun = "hist", pars = "theta", include = FALSE)
+plot(fit, plotfun = "trace", pars = c("theta", "sigmasq"), inc_warmup = TRUE)
+```
+
+
