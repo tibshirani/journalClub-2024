@@ -1,0 +1,3 @@
+For the purpose of teaching undergrads, it might be helpful to start with your simple example of calculating bias and variance of a statistic (eg like your slide 7) and then maybe a more complicated statistic for which we can't calculate the bias/variance as easily to motivate the jacknife (and bootstrap). Or maybe an example of when we shouldn't trust the asymptotic bias/variance.
+
+Might also be helpful to include a small piece of code to see how the procedure can be carried out.
