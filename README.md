@@ -13,7 +13,7 @@ After the course is over, we will direct undergrads to this repo, to try to enco
 #
 Other students can/should upload  any comments they have about the presentation or the README.md
 #
-For the presentation, please watch the vidoe interview, and  give some background/facts/stories on the authors. Discuss software that implements the given methodology (if appropriate)
+For the presentation, please watch the video interview, and  give some background/facts/stories on the authors. Discuss software that implements the given methodology (if appropriate)
 #
 Also: what important work preceded the given work, and what were notable developments since then?
 #
